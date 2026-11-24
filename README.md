@@ -6,11 +6,6 @@ Personal portfolio and playground of **Yaqub Tawab Olamilekan** (Alara) — Soft
 
 - **Work (`/work`)** — Selected projects, engineering experience, and essays:
   - **Projects:** StudyWithBash, Wholesale ERP, SIWES e-logbook, Barbing Salon Platform, OPay-inspired backend API, E-Commerce API
-  - **Experience:** Weeshr App, Unee App, Interchat, Fatherland Foundation, BigFix Technologies
-  - **Writing:** *Beyond the Piles of Refuse: Waste Collection in Lagos*, *The Drain in the Frame*
-- **Stamps (`/stamps`)** — Interactive digital stamp collection and typography studies
-- **Sketchbook (`/sketchbook`)** — Space for visual experiments and early ideas
-- **Shop & Playground (`/shop`, `/playground`)** — Draggable stickers, themes, and interactive demos
 
 ## Links
 
