@@ -1,0 +1,43 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1080" fill="#292929"/>
+
+  <!-- Giant centered stamp -->
+  <g transform="translate(190, 60)">
+    <path d="M 12 0 L 20 0 A 12 12 0 0 0 44 0 L 52 0 A 12 12 0 0 0 76 0 L 84 0 A 12 12 0 0 0 108 0 L 116 0 A 12 12 0 0 0 140 0 L 148 0 A 12 12 0 0 0 172 0 L 180 0 A 12 12 0 0 0 204 0 L 212 0 A 12 12 0 0 0 236 0 L 244 0 A 12 12 0 0 0 268 0 L 276 0 A 12 12 0 0 0 300 0 L 308 0 A 12 12 0 0 0 332 0 L 340 0 A 12 12 0 0 0 364 0 L 372 0 A 12 12 0 0 0 396 0 L 404 0 A 12 12 0 0 0 428 0 L 436 0 A 12 12 0 0 0 460 0 L 468 0 A 12 12 0 0 0 492 0 L 500 0 A 12 12 0 0 0 524 0 L 532 0 A 12 12 0 0 0 556 0 L 564 0 A 12 12 0 0 0 588 0 L 596 0 A 12 12 0 0 0 620 0 L 628 0 A 12 12 0 0 0 652 0 L 660 0 A 12 12 0 0 0 684 0 L 700 0 L 700 20 A 12 12 0 0 0 700 44 L 700 52 A 12 12 0 0 0 700 76 L 700 84 A 12 12 0 0 0 700 108 L 700 116 A 12 12 0 0 0 700 140 L 700 148 A 12 12 0 0 0 700 172 L 700 180 A 12 12 0 0 0 700 204 L 700 212 A 12 12 0 0 0 700 236 L 700 244 A 12 12 0 0 0 700 268 L 700 276 A 12 12 0 0 0 700 300 L 700 308 A 12 12 0 0 0 700 332 L 700 340 A 12 12 0 0 0 700 364 L 700 372 A 12 12 0 0 0 700 396 L 700 404 A 12 12 0 0 0 700 428 L 700 436 A 12 12 0 0 0 700 460 L 700 468 A 12 12 0 0 0 700 492 L 700 500 A 12 12 0 0 0 700 524 L 700 532 A 12 12 0 0 0 700 556 L 700 564 A 12 12 0 0 0 700 588 L 700 596 A 12 12 0 0 0 700 620 L 700 628 A 12 12 0 0 0 700 652 L 700 660 A 12 12 0 0 0 700 684 L 700 692 A 12 12 0 0 0 700 716 L 700 724 A 12 12 0 0 0 700 748 L 700 756 A 12 12 0 0 0 700 780 L 700 788 A 12 12 0 0 0 700 812 L 700 820 A 12 12 0 0 0 700 844 L 700 852 A 12 12 0 0 0 700 876 L 700 884 A 12 12 0 0 0 700 908 L 700 920 L 680 920 A 12 12 0 0 0 656 920 L 648 920 A 12 12 0 0 0 624 920 L 616 920 A 12 12 0 0 0 592 920 L 584 920 A 12 12 0 0 0 560 920 L 552 920 A 12 12 0 0 0 528 920 L 520 920 A 12 12 0 0 0 496 920 L 488 920 A 12 12 0 0 0 464 920 L 456 920 A 12 12 0 0 0 432 920 L 424 920 A 12 12 0 0 0 400 920 L 392 920 A 12 12 0 0 0 368 920 L 360 920 A 12 12 0 0 0 336 920 L 328 920 A 12 12 0 0 0 304 920 L 296 920 A 12 12 0 0 0 272 920 L 264 920 A 12 12 0 0 0 240 920 L 232 920 A 12 12 0 0 0 208 920 L 200 920 A 12 12 0 0 0 176 920 L 168 920 A 12 12 0 0 0 144 920 L 136 920 A 12 12 0 0 0 112 920 L 104 920 A 12 12 0 0 0 80 920 L 72 920 A 12 12 0 0 0 48 920 L 40 920 A 12 12 0 0 0 16 920 L 0 920 L 0 900 A 12 12 0 0 0 0 876 L 0 868 A 12 12 0 0 0 0 844 L 0 836 A 12 12 0 0 0 0 812 L 0 804 A 12 12 0 0 0 0 780 L 0 772 A 12 12 0 0 0 0 748 L 0 740 A 12 12 0 0 0 0 716 L 0 708 A 12 12 0 0 0 0 684 L 0 676 A 12 12 0 0 0 0 652 L 0 644 A 12 12 0 0 0 0 620 L 0 612 A 12 12 0 0 0 0 588 L 0 580 A 12 12 0 0 0 0 556 L 0 548 A 12 12 0 0 0 0 524 L 0 516 A 12 12 0 0 0 0 492 L 0 484 A 12 12 0 0 0 0 460 L 0 452 A 12 12 0 0 0 0 428 L 0 420 A 12 12 0 0 0 0 396 L 0 388 A 12 12 0 0 0 0 364 L 0 356 A 12 12 0 0 0 0 332 L 0 324 A 12 12 0 0 0 0 300 L 0 292 A 12 12 0 0 0 0 268 L 0 260 A 12 12 0 0 0 0 236 L 0 228 A 12 12 0 0 0 0 204 L 0 196 A 12 12 0 0 0 0 172 L 0 164 A 12 12 0 0 0 0 140 L 0 132 A 12 12 0 0 0 0 108 L 0 100 A 12 12 0 0 0 0 76 L 0 68 A 12 12 0 0 0 0 44 L 0 36 A 12 12 0 0 0 0 12 Z" fill="#F4F2F1" filter="drop-shadow(0 20px 50px rgba(0,0,0,0.6))"/>
+    <rect x="26" y="26" width="648" height="868" fill="#292929"/>
+
+    <!-- Stamp header -->
+    <text x="350" y="75" font-family="'Libertinus Serif', 'Georgia', serif" font-size="22" fill="#E9E9E2" text-anchor="middle" letter-spacing="6">POSTAGE</text>
+    <line x1="80" y1="90" x2="620" y2="90" stroke="#383938" stroke-width="1"/>
+
+    <!-- Guilloche side lines -->
+    <g opacity="0.2" stroke="#E9E9E2" stroke-width="1" fill="none">
+      <ellipse cx="52" cy="130" rx="10" ry="28"/><ellipse cx="648" cy="130" rx="10" ry="28"/><ellipse cx="52" cy="164" rx="10" ry="28"/><ellipse cx="648" cy="164" rx="10" ry="28"/><ellipse cx="52" cy="198" rx="10" ry="28"/><ellipse cx="648" cy="198" rx="10" ry="28"/><ellipse cx="52" cy="232" rx="10" ry="28"/><ellipse cx="648" cy="232" rx="10" ry="28"/><ellipse cx="52" cy="266" rx="10" ry="28"/><ellipse cx="648" cy="266" rx="10" ry="28"/><ellipse cx="52" cy="300" rx="10" ry="28"/><ellipse cx="648" cy="300" rx="10" ry="28"/><ellipse cx="52" cy="334" rx="10" ry="28"/><ellipse cx="648" cy="334" rx="10" ry="28"/><ellipse cx="52" cy="368" rx="10" ry="28"/><ellipse cx="648" cy="368" rx="10" ry="28"/><ellipse cx="52" cy="402" rx="10" ry="28"/><ellipse cx="648" cy="402" rx="10" ry="28"/><ellipse cx="52" cy="436" rx="10" ry="28"/><ellipse cx="648" cy="436" rx="10" ry="28"/><ellipse cx="52" cy="470" rx="10" ry="28"/><ellipse cx="648" cy="470" rx="10" ry="28"/><ellipse cx="52" cy="504" rx="10" ry="28"/><ellipse cx="648" cy="504" rx="10" ry="28"/><ellipse cx="52" cy="538" rx="10" ry="28"/><ellipse cx="648" cy="538" rx="10" ry="28"/><ellipse cx="52" cy="572" rx="10" ry="28"/><ellipse cx="648" cy="572" rx="10" ry="28"/><ellipse cx="52" cy="606" rx="10" ry="28"/><ellipse cx="648" cy="606" rx="10" ry="28"/><ellipse cx="52" cy="640" rx="10" ry="28"/><ellipse cx="648" cy="640" rx="10" ry="28"/><ellipse cx="52" cy="674" rx="10" ry="28"/><ellipse cx="648" cy="674" rx="10" ry="28"/><ellipse cx="52" cy="708" rx="10" ry="28"/><ellipse cx="648" cy="708" rx="10" ry="28"/><ellipse cx="52" cy="742" rx="10" ry="28"/><ellipse cx="648" cy="742" rx="10" ry="28"/><ellipse cx="52" cy="776" rx="10" ry="28"/><ellipse cx="648" cy="776" rx="10" ry="28"/>
+    </g>
+
+    <!-- Central monoline hand illustration -->
+    <circle cx="350" cy="400" r="190" fill="none" stroke="#2800FF" stroke-width="3"/>
+    <g transform="translate(350, 400)" fill="none" stroke="#2800FF" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M -18 12 V -70 C -18 -88 16 -88 16 -70 V 6"/>
+      <line x1="-14" y1="-30" x2="12" y2="-30" stroke-width="3.5"/>
+      <path d="M 16 6 C 16 -12 48 -12 48 8 C 48 24 16 24 16 24"/>
+      <path d="M 48 14 C 49 2 72 2 72 18 C 72 32 44 34 44 34"/>
+      <path d="M 70 24 C 72 14 92 18 92 34 C 92 50 68 56 54 58"/>
+      <path d="M -40 40 C -50 18 -40 0 -18 10 C -6 14 10 18 22 20"/>
+      <path d="M -40 40 C -30 66 -18 82 -4 90 L 22 90"/>
+      <path d="M 86 46 C 88 68 76 86 56 94 L 22 94"/>
+    </g>
+
+    <!-- Bottom denomination -->
+    <rect x="26" y="750" width="648" height="144" fill="#F44E22"/>
+    <text x="70" y="845" font-family="'Archivo', 'Inter', sans-serif" font-size="72" font-weight="900" fill="#FFF">A</text>
+    <text x="350" y="822" font-family="'Libertinus Serif', 'Georgia', serif" font-size="28" fill="#FFF" text-anchor="middle" letter-spacing="3">ALARA</text>
+    <text x="350" y="854" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="13" fill="#FAFAF9" text-anchor="middle" letter-spacing="2">CREATIVE ENGINEER</text>
+    <text x="630" y="845" font-family="'Archivo', 'Inter', sans-serif" font-size="72" font-weight="900" fill="#FFF" text-anchor="end">A</text>
+  </g>
+
+  <!-- Footer -->
+  <g transform="translate(540, 1030)">
+    <text x="0" y="0" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="13" fill="#383938" text-anchor="middle" letter-spacing="2">YAQUB.DEV</text>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+import { ArrowUpRight } from 'lucide-react';
+import Image from 'next/image';
+
+import CardTitle from '~/src/components/ui/CardTitle';
+import LinkBox, { LinkBoxLink } from '~/src/components/ui/LinkBox';
+
+import Card from './Card';
+
+export default function WorkspaceCard() {
+  return (
+    <Card>
+      <LinkBox className="group flex h-full min-h-0 flex-col justify-between">
+        <div className="text-text-primary group-hover:text-main-accent mb-4 flex shrink-0 items-center justify-between transition-colors">
+          <div className="flex items-center gap-2">
+            <CardTitle variant="mono">
+              <LinkBoxLink href="/work?f=experience" className="rounded">
+                Work experience
+              </LinkBoxLink>
+            </CardTitle>
+            <span className="text-sm">Roles and projects</span>
+          </div>
+          <ArrowUpRight className="h-4 w-4 transition-opacity group-hover:opacity-100" />
+        </div>
+        <div className="relative min-h-[200px] w-full flex-1 overflow-hidden rounded-md">
+          <Image
+            src="/home/photos/camera-roll-02.jpg"
+            alt=""
+            fill
+            className="object-cover transition-all duration-300 group-hover:scale-105"
+          />
+          <div className="bg-panel-overlay absolute top-0 left-0 h-full w-full transition-colors duration-200" />
+          {/* Rule of Thirds Grid - Only visible on hover */}
+          <div className="pointer-events-none absolute inset-0 opacity-0 transition-opacity duration-300 group-hover:opacity-100">
+            {/* Vertical lines */}
+            <div className="bg-text-primary/60 absolute top-0 bottom-0 left-1/3 w-px"></div>
+            <div className="bg-text-primary/60 absolute top-0 bottom-0 left-2/3 w-px"></div>
+            {/* Horizontal lines */}
+            <div className="bg-text-primary/60 absolute top-1/3 right-0 left-0 h-px"></div>
+            <div className="bg-text-primary/60 absolute top-2/3 right-0 left-0 h-px"></div>
+          </div>
+        </div>
+      </LinkBox>
+    </Card>
+  );
+}

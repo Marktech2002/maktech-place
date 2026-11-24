@@ -1,0 +1,37 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1080" fill="#FAFAF9"/>
+
+  <!-- Header -->
+  <text x="80" y="100" font-family="'Archivo', 'Inter', sans-serif" font-size="14" font-weight="700" fill="#F44E22" letter-spacing="4">WHAT I BUILD</text>
+
+  <!-- Main headline -->
+  <text x="80" y="200" font-family="'Archivo', 'Inter', sans-serif" font-size="58" font-weight="900" fill="#1A1A1A" letter-spacing="1">WEBSITES</text>
+  <text x="80" y="265" font-family="'Archivo', 'Inter', sans-serif" font-size="58" font-weight="900" fill="#F44E22" letter-spacing="1">FOR BUSINESS</text>
+
+  <!-- 3 service cards -->
+  
+  <g transform="translate(80, 340)">
+    <rect x="0" y="0" width="920" height="160" rx="6" fill="none" stroke="#F44E22" stroke-width="2"/>
+    <text x="30" y="45" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="12" font-weight="700" fill="#F44E22" letter-spacing="2">01</text>
+    <text x="30" y="95" font-family="'Archivo', 'Inter', sans-serif" font-size="34" font-weight="800" fill="#1A1A1A">WEB PLATFORMS</text>
+    <text x="30" y="130" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="14" fill="#383938">Custom sites crafted for growth</text>
+  </g>
+  <g transform="translate(80, 540)">
+    <rect x="0" y="0" width="920" height="160" rx="6" fill="none" stroke="#F44E22" stroke-width="2"/>
+    <text x="30" y="45" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="12" font-weight="700" fill="#F44E22" letter-spacing="2">02</text>
+    <text x="30" y="95" font-family="'Archivo', 'Inter', sans-serif" font-size="34" font-weight="800" fill="#1A1A1A">PAYMENTS</text>
+    <text x="30" y="130" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="14" fill="#383938">Checkout and billing systems</text>
+  </g>
+  <g transform="translate(80, 740)">
+    <rect x="0" y="0" width="920" height="160" rx="6" fill="none" stroke="#F44E22" stroke-width="2"/>
+    <text x="30" y="45" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="12" font-weight="700" fill="#F44E22" letter-spacing="2">03</text>
+    <text x="30" y="95" font-family="'Archivo', 'Inter', sans-serif" font-size="34" font-weight="800" fill="#1A1A1A">EDGE DEPLOY</text>
+    <text x="30" y="130" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="14" fill="#383938">Global speed, zero downtime</text>
+  </g>
+
+  <!-- Footer -->
+  <g transform="translate(80, 980)">
+    <text x="0" y="0" font-family="'Archivo', 'Inter', sans-serif" font-size="22" font-weight="800" fill="#1A1A1A">YAQUB TAWAB OLAMILEKAN</text>
+    <text x="920" y="0" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="14" fill="#F44E22" text-anchor="end">YAQUB.DEV</text>
+  </g>
+</svg>

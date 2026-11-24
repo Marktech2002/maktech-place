@@ -1,0 +1,58 @@
+<svg width="3840" height="2160" viewBox="0 0 3840 2160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="mg" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#383938" stroke-width="0.8" opacity="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="3840" height="2160" fill="#292929"/>
+  <rect width="3840" height="2160" fill="url(#mg)"/>
+
+  <!-- Title -->
+  <text x="100" y="120" font-family="'Archivo', 'Inter', sans-serif" font-size="56" font-weight="800" fill="#FAFAF9">YAQUB TAWAB OLAMILEKAN</text>
+  <text x="100" y="175" font-family="'Archivo', 'Inter', sans-serif" font-size="56" font-weight="800" fill="#F44E22">ALARA · CAMPAIGN DESIGN SYSTEM</text>
+  <text x="100" y="215" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="18" fill="#E9E9E2" letter-spacing="3">CREATIVE ENGINEER · YAQUB.DEV · 2026</text>
+
+  <!-- Row 1: Banner + Story + IG1 -->
+  <g transform="translate(100, 300)">
+    <text x="0" y="-15" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="14" fill="#F44E22" letter-spacing="2">01 TWITTER BANNER 1500×500</text>
+    <rect x="0" y="0" width="1500" height="500" fill="none" stroke="#F44E22" stroke-width="2"/>
+  </g>
+  <g transform="translate(1700, 300)">
+    <text x="0" y="-15" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="14" fill="#F44E22" letter-spacing="2">02 STORY 1080×1920</text>
+    <g transform="scale(0.6)">
+      <rect x="0" y="0" width="1080" height="1920" fill="none" stroke="#2800FF" stroke-width="3"/>
+    </g>
+  </g>
+  <g transform="translate(2400, 300)">
+    <text x="0" y="-15" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="14" fill="#F44E22" letter-spacing="2">03 INSTAGRAM 1080×1080</text>
+    <g transform="scale(0.75)">
+      <rect x="0" y="0" width="1080" height="1080" fill="none" stroke="#F44E22" stroke-width="3"/>
+    </g>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(100, 920)">
+    <text x="0" y="-15" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="14" fill="#F44E22" letter-spacing="2">04 TWITTER POST 1200×675</text>
+    <rect x="0" y="0" width="1200" height="675" fill="none" stroke="#2800FF" stroke-width="2"/>
+  </g>
+  <g transform="translate(1400, 920)">
+    <text x="0" y="-15" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="14" fill="#F44E22" letter-spacing="2">05 CASE STUDY 1200×900</text>
+    <g transform="scale(0.65)">
+      <rect x="0" y="0" width="1200" height="900" fill="none" stroke="#F44E22" stroke-width="3"/>
+    </g>
+  </g>
+  <g transform="translate(2300, 920)">
+    <text x="0" y="-15" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="14" fill="#F44E22" letter-spacing="2">06 SERVICES CAROUSEL 1080×1080</text>
+    <g transform="scale(0.55)">
+      <rect x="0" y="0" width="1080" height="1080" fill="none" stroke="#2800FF" stroke-width="3"/>
+    </g>
+  </g>
+  <g transform="translate(2960, 920)">
+    <text x="0" y="-15" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="14" fill="#F44E22" letter-spacing="2">07 STICKER PACK 1080×1080</text>
+    <g transform="scale(0.55)">
+      <rect x="0" y="0" width="1080" height="1080" fill="none" stroke="#F44E22" stroke-width="3"/>
+    </g>
+  </g>
+
+  <text x="100" y="2080" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="16" fill="#383938">ALL ASSETS SVG + PNG · READY FOR EXPORT</text>
+</svg>

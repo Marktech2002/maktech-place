@@ -1,0 +1,54 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1500" height="500" fill="#292929"/>
+
+  <!-- Left: Monoline Stamp -->
+  <g transform="translate(60, 42) rotate(-3)">
+    <path d="M 8 0 L 16 0 A 8 8 0 0 0 32 0 L 40 0 A 8 8 0 0 0 56 0 L 64 0 A 8 8 0 0 0 80 0 L 88 0 A 8 8 0 0 0 104 0 L 112 0 A 8 8 0 0 0 128 0 L 136 0 A 8 8 0 0 0 152 0 L 160 0 A 8 8 0 0 0 176 0 L 184 0 A 8 8 0 0 0 200 0 L 208 0 A 8 8 0 0 0 224 0 L 232 0 A 8 8 0 0 0 248 0 L 256 0 A 8 8 0 0 0 272 0 L 280 0 A 8 8 0 0 0 296 0 L 300 0 L 300 16 A 8 8 0 0 0 300 32 L 300 40 A 8 8 0 0 0 300 56 L 300 64 A 8 8 0 0 0 300 80 L 300 88 A 8 8 0 0 0 300 104 L 300 112 A 8 8 0 0 0 300 128 L 300 136 A 8 8 0 0 0 300 152 L 300 160 A 8 8 0 0 0 300 176 L 300 184 A 8 8 0 0 0 300 200 L 300 208 A 8 8 0 0 0 300 224 L 300 232 A 8 8 0 0 0 300 248 L 300 256 A 8 8 0 0 0 300 272 L 300 280 A 8 8 0 0 0 300 296 L 300 304 A 8 8 0 0 0 300 320 L 300 328 A 8 8 0 0 0 300 344 L 300 352 A 8 8 0 0 0 300 368 L 300 376 A 8 8 0 0 0 300 392 L 300 400 L 284 400 A 8 8 0 0 0 268 400 L 260 400 A 8 8 0 0 0 244 400 L 236 400 A 8 8 0 0 0 220 400 L 212 400 A 8 8 0 0 0 196 400 L 188 400 A 8 8 0 0 0 172 400 L 164 400 A 8 8 0 0 0 148 400 L 140 400 A 8 8 0 0 0 124 400 L 116 400 A 8 8 0 0 0 100 400 L 92 400 A 8 8 0 0 0 76 400 L 68 400 A 8 8 0 0 0 52 400 L 44 400 A 8 8 0 0 0 28 400 L 20 400 A 8 8 0 0 0 4 400 L 0 400 L 0 384 A 8 8 0 0 0 0 368 L 0 360 A 8 8 0 0 0 0 344 L 0 336 A 8 8 0 0 0 0 320 L 0 312 A 8 8 0 0 0 0 296 L 0 288 A 8 8 0 0 0 0 272 L 0 264 A 8 8 0 0 0 0 248 L 0 240 A 8 8 0 0 0 0 224 L 0 216 A 8 8 0 0 0 0 200 L 0 192 A 8 8 0 0 0 0 176 L 0 168 A 8 8 0 0 0 0 152 L 0 144 A 8 8 0 0 0 0 128 L 0 120 A 8 8 0 0 0 0 104 L 0 96 A 8 8 0 0 0 0 80 L 0 72 A 8 8 0 0 0 0 56 L 0 48 A 8 8 0 0 0 0 32 L 0 24 A 8 8 0 0 0 0 8 Z" fill="#F4F2F1" filter="drop-shadow(0 12px 30px rgba(0,0,0,0.5))"/>
+    <rect x="20" y="20" width="260" height="360" fill="#292929"/>
+    <!-- Monoline hand inside -->
+    <g transform="translate(150, 170)" fill="none" stroke="#2800FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M -14 8 V -55 C -14 -68 14 -68 14 -55 V 4"/>
+      <path d="M 14 4 C 14 -8 36 -8 36 6 C 36 16 14 16 14 16"/>
+      <path d="M 36 10 C 37 2 54 2 54 14 C 54 24 34 26 34 26"/>
+      <path d="M -30 30 C -38 14 -28 2 -14 8"/>
+      <path d="M -30 30 C -22 50 -12 62 0 68 L 18 68"/>
+      <path d="M 52 24 C 54 40 44 56 30 62 L 18 68"/>
+    </g>
+    <text x="150" y="310" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="11" fill="#E9E9E2" text-anchor="middle" letter-spacing="3">CREATIVE ENGINEER</text>
+    <!-- Bottom denomination -->
+    <rect x="20" y="330" width="260" height="50" fill="#F44E22"/>
+    <text x="36" y="362" font-family="'Archivo', 'Inter', sans-serif" font-size="26" font-weight="800" fill="#FFF">A</text>
+    <text x="150" y="362" font-family="'Libertinus Serif', 'Georgia', serif" font-size="20" fill="#FFF" text-anchor="middle">ALARA</text>
+    <text x="264" y="362" font-family="'Archivo', 'Inter', sans-serif" font-size="26" font-weight="800" fill="#FFF" text-anchor="end">A</text>
+  </g>
+
+  <!-- Center hero text -->
+  <g transform="translate(750, 200)">
+    <text x="0" y="0" font-family="'Archivo', 'Inter', sans-serif" font-size="68" font-weight="800" fill="#FAFAF9" text-anchor="middle" letter-spacing="3">YAQUB TAWAB</text>
+    <text x="0" y="72" font-family="'Archivo', 'Inter', sans-serif" font-size="68" font-weight="800" fill="#F44E22" text-anchor="middle" letter-spacing="4">OLAMILEKAN</text>
+    <text x="0" y="128" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="15" fill="#E9E9E2" text-anchor="middle" letter-spacing="4">CREATIVE ENGINEER · LAGOS</text>
+  </g>
+
+  <!-- Right: Typographic stamp card -->
+  <g transform="translate(1130, 55) rotate(4)">
+    <path d="M 8 0 L 16 0 A 8 8 0 0 0 32 0 L 40 0 A 8 8 0 0 0 56 0 L 64 0 A 8 8 0 0 0 80 0 L 88 0 A 8 8 0 0 0 104 0 L 112 0 A 8 8 0 0 0 128 0 L 136 0 A 8 8 0 0 0 152 0 L 160 0 A 8 8 0 0 0 176 0 L 184 0 A 8 8 0 0 0 200 0 L 208 0 A 8 8 0 0 0 224 0 L 232 0 A 8 8 0 0 0 248 0 L 256 0 A 8 8 0 0 0 272 0 L 280 0 A 8 8 0 0 0 296 0 L 310 0 L 310 16 A 8 8 0 0 0 310 32 L 310 40 A 8 8 0 0 0 310 56 L 310 64 A 8 8 0 0 0 310 80 L 310 88 A 8 8 0 0 0 310 104 L 310 112 A 8 8 0 0 0 310 128 L 310 136 A 8 8 0 0 0 310 152 L 310 160 A 8 8 0 0 0 310 176 L 310 184 A 8 8 0 0 0 310 200 L 310 208 A 8 8 0 0 0 310 224 L 310 232 A 8 8 0 0 0 310 248 L 310 256 A 8 8 0 0 0 310 272 L 310 280 A 8 8 0 0 0 310 296 L 310 304 A 8 8 0 0 0 310 320 L 310 328 A 8 8 0 0 0 310 344 L 310 352 A 8 8 0 0 0 310 368 L 310 380 L 294 380 A 8 8 0 0 0 278 380 L 270 380 A 8 8 0 0 0 254 380 L 246 380 A 8 8 0 0 0 230 380 L 222 380 A 8 8 0 0 0 206 380 L 198 380 A 8 8 0 0 0 182 380 L 174 380 A 8 8 0 0 0 158 380 L 150 380 A 8 8 0 0 0 134 380 L 126 380 A 8 8 0 0 0 110 380 L 102 380 A 8 8 0 0 0 86 380 L 78 380 A 8 8 0 0 0 62 380 L 54 380 A 8 8 0 0 0 38 380 L 30 380 A 8 8 0 0 0 14 380 L 0 380 L 0 364 A 8 8 0 0 0 0 348 L 0 340 A 8 8 0 0 0 0 324 L 0 316 A 8 8 0 0 0 0 300 L 0 292 A 8 8 0 0 0 0 276 L 0 268 A 8 8 0 0 0 0 252 L 0 244 A 8 8 0 0 0 0 228 L 0 220 A 8 8 0 0 0 0 204 L 0 196 A 8 8 0 0 0 0 180 L 0 172 A 8 8 0 0 0 0 156 L 0 148 A 8 8 0 0 0 0 132 L 0 124 A 8 8 0 0 0 0 108 L 0 100 A 8 8 0 0 0 0 84 L 0 76 A 8 8 0 0 0 0 60 L 0 52 A 8 8 0 0 0 0 36 L 0 28 A 8 8 0 0 0 0 12 Z" fill="#FAFAF9" filter="drop-shadow(0 12px 30px rgba(0,0,0,0.5))"/>
+    <rect x="22" y="22" width="266" height="336" fill="#FAFAF9"/>
+    <text x="155" y="100" font-family="'Archivo', 'Inter', sans-serif" font-size="14" font-weight="700" fill="#F44E22" text-anchor="middle" letter-spacing="5">THE WORK OF</text>
+    <text x="155" y="175" font-family="'Archivo', 'Inter', sans-serif" font-size="56" font-weight="900" fill="#F44E22" text-anchor="middle" letter-spacing="2">ALA</text>
+    <text x="155" y="230" font-family="'Archivo', 'Inter', sans-serif" font-size="56" font-weight="900" fill="#F44E22" text-anchor="middle" letter-spacing="2">RA</text>
+    <line x1="60" y1="258" x2="250" y2="258" stroke="#F44E22" stroke-width="2"/>
+    <text x="155" y="290" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="11" fill="#F44E22" text-anchor="middle" letter-spacing="2">YAQUB.DEV</text>
+    <text x="155" y="310" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="10" fill="#F44E22" text-anchor="middle" letter-spacing="1">EST. 2026</text>
+  </g>
+
+  <!-- Small sticker overlaps -->
+  <g transform="translate(340, 350) rotate(8)">
+    <rect x="0" y="0" width="120" height="44" rx="22" fill="#292929" stroke="#E9E9E2" stroke-width="2"/>
+    <text x="60" y="28" font-family="'IBM Plex Mono', 'Fira Code', monospace" font-size="11" font-weight="700" fill="#E9E9E2" text-anchor="middle">1% BATTERY</text>
+  </g>
+
+  <g transform="translate(1080, 390) rotate(-6)">
+    <rect x="0" y="0" width="48" height="48" rx="12" fill="#292929" stroke="#E9E9E2" stroke-width="2"/>
+    <text x="24" y="31" font-family="'Inter', 'Helvetica Neue', sans-serif" font-size="18" fill="#E9E9E2" text-anchor="middle">⌘</text>
+  </g>
+</svg>
