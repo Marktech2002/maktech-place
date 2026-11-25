@@ -32,7 +32,7 @@ const articlePhotos = new Map([
     },
   ],
   [
-    'Photo · Mile 12 Ilele, Kosofe',
+    'Photo · Mile 12 Ilé-Ilé, Kosofe',
     {
       image: mile12,
       alt: 'A pile of refuse beside pedestrians and a parked car at Mile 12.',

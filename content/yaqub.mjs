@@ -101,7 +101,7 @@ export const article = {
   stickerTitle: 'Beyond the Piles of Refuse',
   stickerContext: 'Lagos waste collection',
   description:
-    'What the smell at Obalende, Mile 12 Ilele and Berger bus stop made me ask about waste collection in Lagos',
+    'What the smell at Obalende, Mile 12 Ilé-Ilé and Berger bus stop made me ask about waste collection in Lagos',
 };
 
 export const visionArticle = {

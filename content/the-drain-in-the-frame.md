@@ -9,7 +9,7 @@ The photograph of Obalende Canal by Eniola Daniel, which I shared in that piece,
 
 > **Photo · Obalende Canal, 23 November**
 
-I thought back to Mile 12 Ilele, where I’d seen rubbish disappear from one side of the road and turn up on the other. If I’d pointed my camera at the original spot both times, I might have thought the problem had been sorted. The first decision in that comparison would have been mine. Where should I point the camera?
+I thought back to Mile 12 Ilé-Ilé, where I’d seen rubbish disappear from one side of the road and turn up on the other. If I’d pointed my camera at the original spot both times, I might have thought the problem had been sorted. The first decision in that comparison would have been mine. Where should I point the camera?
 
 The waste series will continue with a map of dated observations across Lagos. Here I want to look more closely at what goes into one of those observations. Before I put a point on a map, I want to know what I can reliably tell from the photograph behind it.
 

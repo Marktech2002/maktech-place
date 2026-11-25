@@ -1,11 +1,11 @@
 # Beyond the Piles of Refuse
-*What the smell at Obalende, Mile 12 Ilele and Berger bus stop made me ask about waste collection in Lagos*
+*What the smell at Obalende, Mile 12 Ilé-Ilé and Berger bus stop made me ask about waste collection in Lagos*
 
 By Yaqub Tawab Olamilekan
 
 “Lagos smells.” Say that around people who know the city and somebody will probably have a place in mind. Mine is Obalende. When I worked in Ikoyi, I passed through Obalende every morning and again in the afternoon. Some days the smell was so bad I just wanted to get through the bus stop. I could keep walking. There were people selling there, waiting for buses, and people who had nowhere else to sleep. What was it like for the people who had to stay?
 
-I noticed the same smell at Berger bus stop and at Mile 12 Ilele in Kosofe, two places I passed through while running errands for the business. After enough trips, I came to expect it. What stayed with me was how ordinary it had started to feel.
+I noticed the same smell at Berger bus stop and at Mile 12 Ilé-Ilé in Kosofe, two places I passed through while running errands for the business. After enough trips, I came to expect it. What stayed with me was how ordinary it had started to feel.
 
 I started thinking about what people throw away over the course of a day, from lunch wrappers at the bus stop to rubbish from homes and market stalls. Someone has to pick it up, get it onto a truck and take it somewhere that can receive it. I wanted to understand what happens between the moment someone puts their rubbish out and the moment it’s taken away.
 
@@ -19,7 +19,7 @@ I started thinking about what people throw away over the course of a day, from l
 
 At those stops, I remember the smell more clearly than any single pile of rubbish. A photo can show what was on the ground on a particular day. To understand what it felt like to stand there waiting for a bus or serving customers, it helps to hear from the people who were there.
 
-> **Photo · Mile 12 Ilele, Kosofe**  
+> **Photo · Mile 12 Ilé-Ilé, Kosofe**
 > [Add your photo here. Describe what the image shows and give the date and credit.]
 
 I knew when I had passed through, but I rarely knew when the rubbish had last been collected. If the smell was still there on my way home, I couldn’t tell whether the same rubbish had sat there all day or whether the spot had been cleared and filled up again. Either way, there was a pile to walk past. Finding out which had happened would mean knowing when the truck last came.
@@ -29,13 +29,13 @@ I knew when I had passed through, but I rarely knew when the rubbish had last be
 
 ## What has to happen before the waste leaves?
 
-I started with the Lagos Waste Management Authority (LAWMA), which publishes a directory of private operators and the areas they serve. According to LAWMA, Kosofe was one of two areas where private-sector collection was first piloted in 1997. That stood out to me because Mile 12 Ilele is in Kosofe. The directory tells me who is assigned to an area. To see what service a particular street actually gets, I would look at the pickup schedule, when trucks came, and what residents and traders remember. [LAWMA’s Private Sector Partnership directory][lawma]
+I started with the Lagos Waste Management Authority (LAWMA), which publishes a directory of private operators and the areas they serve. According to LAWMA, Kosofe was one of two areas where private-sector collection was first piloted in 1997. That stood out to me because Mile 12 Ilé-Ilé is in Kosofe. The directory tells me who is assigned to an area. To see what service a particular street actually gets, I would look at the pickup schedule, when trucks came, and what residents and traders remember. [LAWMA’s Private Sector Partnership directory][lawma]
 
 On my own street, cars parked on both sides sometimes left too little room for the waste truck to get through. I hadn’t thought about parking as part of waste collection before. Walking down the street, it was easy to miss how little space a truck had to work with.
 
 At Ojuelegba, I’ve seen bags and loose rubbish build up around a LAWMA container once it’s full. The amount spilling over makes me wonder whether the site needs more container space, more frequent pickups, or both. Knowing when the truck is due and when it actually comes could help me tell whether a pickup was missed or the container simply filled again before the next one.
 
-Where we put our rubbish matters too. At Mile 12 Ilele, I often passed a spot where people dumped waste. After what looked like a charm appeared there, the spot stayed clear for a few months, but I started seeing rubbish on the opposite side of the road. I don’t know why people changed where they dumped. What I could see was that the rubbish had moved across the road.
+Where we put our rubbish matters too. At Mile 12 Ilé-Ilé, I often passed a spot where people dumped waste. After what looked like a charm appeared there, the spot stayed clear for a few months, but I started seeing rubbish on the opposite side of the road. I don’t know why people changed where they dumped. What I could see was that the rubbish had moved across the road.
 
 That left me wondering what options people had nearby. Was there a collection point they could reach, and did it have room? If collection cost money, could they afford it, and were they willing to pay? I would ask residents and traders what they do with their rubbish and compare what they tell me with the pickup records.
 
@@ -48,7 +48,7 @@ A dated photo can tell me what was there when someone passed. What happened betw
 
 I can describe the smell firsthand. The health risks depend on what people come into contact with and for how long. The World Health Organization describes several ways poorly managed waste can affect health. Burning rubbish can expose people nearby, including waste workers, to smoke and pollutants. Waste can also contaminate water or soil, while discarded containers and blocked drains can hold standing water where mosquitoes breed. [WHO guidance on solid waste and health][who-guidance] · [WHO review of the health evidence][who-review]
 
-At the Solous landfill in Lagos, researchers compared respiratory and skin symptoms reported by people who lived nearby with those reported by people who lived farther away. They found differences between the groups in a study that looked at where people lived and how they were doing at one point in time. It’s an example of how researchers can study exposure over everyday life. Linking an illness to waste at Obalende, Berger, or Mile 12 Ilele would take evidence about people’s exposure and health in that particular place. [Abiola and colleagues’ Solous landfill study][solous]
+At the Solous landfill in Lagos, researchers compared respiratory and skin symptoms reported by people who lived nearby with those reported by people who lived farther away. They found differences between the groups in a study that looked at where people lived and how they were doing at one point in time. It’s an example of how researchers can study exposure over everyday life. Linking an illness to waste at Obalende, Berger, or Mile 12 Ilé-Ilé would take evidence about people’s exposure and health in that particular place. [Abiola and colleagues’ Solous landfill study][solous]
 
 > **Photo · A possible route of exposure**  
 > [Add a verified photo showing waste close to homes or stalls, a stagnant drain or open burning. Caption the visible conditions and include the location, date and credit.]
@@ -75,7 +75,7 @@ I kept noticing the same spots because those were the routes I knew. Places I ra
 
 I would start by recording what happens at a few locations and comparing that with what residents, workers, and public records can tell me. The World Bank’s Lagos diagnostic proposed collecting information on routes, GPS tracking, and pickup records. If I can find any of those records for the places I visit, I can use them to check when a truck actually came. [World Bank’s Lagos diagnostic, pp. 94–95][world-bank]
 
-The routes I know give me somewhere to begin. In the next two articles, I’ll map dated observations around markets, bus stops, and drains, then compare them with what I can learn about pickups and drainage. I want to see which spots keep filling up, how long they stay that way, and what might make life easier for the people who spend time there.
+The routes I know give me somewhere to begin. I would also include Ojota, which comes up in the posts above, and Idumagbo Avenue as another place to visit. In the next two articles, I’ll map dated observations around markets, bus stops, and drains, then compare them with what I can learn about pickups and drainage. I want to see which spots keep filling up, how long they stay that way, and what might make life easier for the people who spend time there.
 
 Thank you for taking the time to read this.
 
