@@ -3,11 +3,11 @@
 
 By Yaqub Tawab Olamilekan
 
-“Lagos smells.” Say that around people who know the city and somebody will probably have a place in mind. Mine is Obalende. When I worked in Ikoyi, I passed through Obalende every morning and again in the afternoon. Some days the smell was so bad I just wanted to get through the bus stop. I could keep walking. There were people selling there, waiting for buses,  and people who had nowhere else to sleep. What was it like for the people who had to stay?
+“Lagos smells.” Say that around people who know the city and somebody will probably have a place in mind. Mine is Obalende. When I worked in Ikoyi, I passed through Obalende every morning and again in the afternoon. Some days the smell was so bad I just wanted to get through the bus stop. I could keep walking. There were people selling there, waiting for buses, and people who had nowhere else to sleep. What was it like for the people who had to stay?
 
-And when i ran errands for the business ,  those trips took me through Berger bus stop and Mile 12 Ilele in Kosofe. I remember the smell there too. When you pass through often enough, it becomes part of what you expect from the journey. I started wondering how it had become so ordinary.
+I noticed the same smell at Berger bus stop and at Mile 12 Ilele in Kosofe, two places I passed through while running errands for the business. After enough trips, I came to expect it. What stayed with me was how ordinary it had started to feel.
 
-Think about what gets thrown away over the course of a day. A trader packs up at the market. Someone finishes their lunch at the bus stop. Families take out the rubbish at home. Somebody has to collect that waste, get it onto a truck and take it somewhere that can receive it. At Obalende I usually had somewhere else to be. I wanted to understand what it took for the rubbish to move on too.
+I started thinking about what people throw away over the course of a day, from lunch wrappers at the bus stop to rubbish from homes and market stalls. Someone has to pick it up, get it onto a truck and take it somewhere that can receive it. I wanted to understand what happens between the moment someone puts their rubbish out and the moment it’s taken away.
 
 > **Photo · Obalende**  
 > [Add your photo here. Caption it with what is visible, the spot, the date and the photo credit.]
@@ -17,65 +17,67 @@ Think about what gets thrown away over the course of a day. A trader packs up at
 
 ## The places I kept passing through
 
-Obalende was part of my working day. Berger bus stop and Mile 12 Ilele were places I knew from running errands. I remember the odour more clearly than any single pile of refuse. A photograph can show what was on the ground on a particular day. The smell is the part of the experience that somebody who was there has to describe.
+At those stops, I remember the smell more clearly than any single pile of rubbish. A photo can show what was on the ground on a particular day. To understand what it felt like to stand there waiting for a bus or serving customers, it helps to hear from the people who were there.
 
 > **Photo · Mile 12 Ilele, Kosofe**  
 > [Add your photo here. Describe what the image shows and give the date and credit.]
 
-I knew when I had passed through a place. I rarely knew when the waste there had last been cleared. I could smell something on the way to work and smell it again on the way back, with no way to tell whether the refuse had been sitting there all day or whether more had arrived since the morning. That difference matters. A pile left in place for several days and a collection point that fills up again within hours can look much the same when you walk past.
+I knew when I had passed through, but I rarely knew when the rubbish had last been collected. If the smell was still there on my way home, I couldn’t tell whether the same rubbish had sat there all day or whether the spot had been cleared and filled up again. Either way, there was a pile to walk past. Finding out which had happened would mean knowing when the truck last came.
 
 > **X screenshot 2 · A complaint tied to a location**  
 > [Add a public post that names or clearly identifies a location. Include the handle, date, original wording and link.]
 
 ## What has to happen before the waste leaves?
 
-The Lagos Waste Management Authority, known as LAWMA, publishes a directory of private operators and their assigned areas. Kosofe was one of two areas where the private-sector collection pilot began in 1997, according to LAWMA. That caught my attention because Mile 12 Ilele was one of the places that had made me curious about the system in the first place. The directory gives a starting point for finding who is assigned to an area. To understand the service a particular street receives, I would also need pickup schedules, records of when trucks came and accounts from people who use the service. [LAWMA’s Private Sector Partnership directory][lawma]
+I started with the Lagos Waste Management Authority (LAWMA), which publishes a directory of private operators and the areas they serve. According to LAWMA, Kosofe was one of two areas where private-sector collection was first piloted in 1997. That stood out to me because Mile 12 Ilele is in Kosofe. The directory tells me who is assigned to an area. To see what service a particular street actually gets, I would look at the pickup schedule, when trucks came, and what residents and traders remember. [LAWMA’s Private Sector Partnership directory][lawma]
 
-At my own house, one reason the waste truck wouldn’t come down the street was that cars were parked on both sides. Of all the reasons I might have expected, I hadn’t thought of where people parked. The street is easy enough to walk down. Getting a waste truck through is another matter.
+On my own street, cars parked on both sides sometimes left too little room for the waste truck to get through. I hadn’t thought about parking as part of waste collection before. Walking down the street, it was easy to miss how little space a truck had to work with.
 
-At Ojuelegba, I’ve seen waste pile up around a LAWMA container that people use to dispose of their rubbish. Once the container is full, bags and loose refuse collect around it. From what I’ve seen, that collection point needs more container space. I also think pickups may be too far apart to keep up with how much people bring. I don’t know the pickup schedule there, so I can’t say whether trucks are missing visits or whether the container fills again before the next scheduled pickup.
+At Ojuelegba, I’ve seen bags and loose rubbish build up around a LAWMA container once it’s full. The amount spilling over makes me wonder whether the site needs more container space, more frequent pickups, or both. Knowing when the truck is due and when it actually comes could help me tell whether a pickup was missed or the container simply filled again before the next one.
 
-We also have a part in this. People dump on roadsides, and those choices can turn an ordinary stretch of road into another place where rubbish piles up. At Mile 12 Ilele, along a road I often passed, I noticed what looked like a charm placed where people had been dumping. For a few months, that spot stayed clear. I started seeing rubbish on the opposite side of the road instead. I can’t say what made people switch sides, but the waste was still there, just across the road.
+Where we put our rubbish matters too. At Mile 12 Ilele, I often passed a spot where people dumped waste. After what looked like a charm appeared there, the spot stayed clear for a few months, but I started seeing rubbish on the opposite side of the road. I don’t know why people changed where they dumped. What I could see was that the rubbish had moved across the road.
 
-I don’t know what options the people dumping there had. Was there another collection point within reach? If there was, did it have room? Was paid collection too expensive, or were some people unwilling to pay? I’d want to ask residents and traders those questions and compare their answers with pickup records. That would help explain what people chose to do and what choices were available to them.
+That left me wondering what options people had nearby. Was there a collection point they could reach, and did it have room? If collection cost money, could they afford it, and were they willing to pay? I would ask residents and traders what they do with their rubbish and compare what they tell me with the pickup records.
 
 > **Photo · Waste collection**  
 > [Add a photo of a collection truck or collection point. Record the location, date and credit. Describe what the frame shows.]
 
-A dated photo can show the pile somebody walked past. To find out why it was there, I would want to know what happened before and after that picture was taken.
+A dated photo can tell me what was there when someone passed. What happened between one pickup and the next is harder to see.
 
 ## What people are exposed to
 
-The smell is what I can describe firsthand. The health questions depend on what people are exposed to and for how long. The World Health Organization identifies several ways poorly managed waste can affect health. Open burning exposes people nearby, including waste workers, to smoke and pollutants. Poor disposal can contaminate water and soil. Discarded containers and blocked drains can hold standing water, creating places for mosquitoes to breed. Those are different problems, even when they arise around the same accumulation of refuse. [WHO guidance on solid waste and health][who-guidance] · [WHO review of the health evidence][who-review]
+I can describe the smell firsthand. The health risks depend on what people come into contact with and for how long. The World Health Organization describes several ways poorly managed waste can affect health. Burning rubbish can expose people nearby, including waste workers, to smoke and pollutants. Waste can also contaminate water or soil, while discarded containers and blocked drains can hold standing water where mosquitoes breed. [WHO guidance on solid waste and health][who-guidance] · [WHO review of the health evidence][who-review]
 
-Researchers in Lagos compared respiratory and skin-related symptoms among people living near the Solous landfill and people living farther away. They found differences in reported symptoms between the groups. The study looked at people’s health and where they lived at one point in time. It gives us a local example of what researchers can investigate when exposure lasts longer than a walk through a bus stop. To connect a particular illness to waste at Obalende, Berger or Mile 12 Ilele would take evidence about exposure and health at that location. [Abiola and colleagues’ Solous landfill study][solous]
+At the Solous landfill in Lagos, researchers compared respiratory and skin symptoms reported by people who lived nearby with those reported by people who lived farther away. They found differences between the groups in a study that looked at where people lived and how they were doing at one point in time. It’s an example of how researchers can study exposure over everyday life. Linking an illness to waste at Obalende, Berger, or Mile 12 Ilele would take evidence about people’s exposure and health in that particular place. [Abiola and colleagues’ Solous landfill study][solous]
 
 > **Photo · A possible route of exposure**  
 > [Add a verified photo showing waste close to homes or stalls, a stagnant drain or open burning. Caption the visible conditions and include the location, date and credit.]
 
 ## Who gets to walk away?
 
-At Obalende I could be somewhere else in a few minutes. If you’re selling at the bus stop, that’s where your customers know to find you. If you’re waiting for a bus, you still need to get where you’re going. The same stretch of road asks different things of you depending on why you’re there.
+I could usually get through Obalende in a few minutes. If you sell at the bus stop, that’s where your customers know to find you. If you’re waiting for a bus, you may have to stay until it comes. How long you spend there depends on what brought you there and whether you can leave.
 
-- **Trading and getting around.** If I’m walking past a stall and the smell makes me hurry along, I can buy what I need somewhere else. The person who runs the stall has to open again the next day. I’d want to ask traders whether they see customers take a different route and what it would cost them to move.
-- **Living and working beside waste.** A commuter might be there for a few minutes. For a trader, a nearby resident or someone who sleeps there, the same conditions can last for hours. A waste worker has to get close enough to handle what others can walk around.
-- **Flooding after rain.** After heavy rain, water can cover the road to the bus stop. If I’m trying to catch a bus, I can walk to the next junction. Someone selling by the roadside may have to stay and move their goods off the ground. Even when the rain stops, customers may still have trouble reaching the stall.
+- **Trading and getting around.** If the smell makes me hurry past a stall, I can buy what I need somewhere else. The trader may have to open in the same spot the next day. I would like to ask whether they notice customers taking a different route and what moving would cost them.
+- **Living and working beside waste.** I might pass a pile in a few minutes, while a trader, a nearby resident, or someone who sleeps there may spend hours beside it. Waste workers have to get close enough to handle what most of us can walk around.
+- **Flooding after rain.** When rainwater covers the road to the bus stop, I can try the next junction. A roadside trader may need to stay and lift goods off the ground. Even after the rain stops, customers can still struggle to reach the stall.
 
-Imagine someone asking, “Can I get to the bus stop from here?” A trader might say, “Try the next junction. I need to move these boxes before they get wet.”
+I can imagine a commuter asking, “Can I get to the bus stop from here?” A trader might point them to the next junction and say, “I need to move these boxes before they get wet.”
 
-Rubbish in a drain can slow the water down. The World Bank’s study of Lagos also points to drains that are too small and rainwater running off paved roads. I’d like to see where the water collects, how long it stays, and whether the same places flood when the drains are clear. [World Bank’s Lagos diagnostic, p. 52][world-bank]
+Rubbish can slow the flow through a drain. The World Bank’s study of Lagos also points to limited drainage capacity and rainwater running off paved surfaces. After a storm, it would help to note where water collects, how long it stays, and whether those same spots flood when the drains are clear. [World Bank’s Lagos diagnostic, p. 52][world-bank]
 
 [See the earlier photo of Obalende Canal beneath the elevated road][obalende-photo].
 
-The date of a photo matters here as much as the place. If a drain is photographed after a storm, some of the refuse could have been carried there by the water. A photo from before the storm, or another from after a clean-up, would help tell the story in sequence. That would give us a better basis for asking whether to look first at waste collection, drain maintenance or the design of the drain itself.
+The date matters because rainwater can carry rubbish into a drain during a storm. If the only photo was taken afterward, I would want to see what the drain looked like before the rain and after it was cleared. That sequence might help me decide whether to ask first about waste collection, drain maintenance, or the drain’s design.
 
 ## What I want to find out next
 
-The more I thought about my own routes, the more I wanted to know how much of the pattern I was seeing came from where I happened to travel. I regularly went through Obalende while i was working in ikoyi . That gave me repeated chances to notice conditions there. Somewhere I rarely went could have had a similar problem, with fewer people documenting it. Even on the routes I knew, "a record that includes the days a spot was clear would tell me more than a collection of photos taken only when the waste was at its worst".
+I kept noticing the same spots because those were the routes I knew. Places I rarely visited could have had similar problems, and I had fewer chances to see them. Even along familiar routes, a record would tell me more if it included the days a spot was clear as well as the days rubbish piled up.
 
-Keeping that kind of record could help ask better questions of the people responsible for collection and drainage. The World Bank’s Lagos diagnostic proposed gathering operational information such as collection routes, GPS tracking and records that could verify pickups. At the scale of this series, I would start with what can be documented at a few locations, then see what public records and local accounts can add. [World Bank’s Lagos diagnostic, pp. 94–95][world-bank]
+I would start by recording what happens at a few locations and comparing that with what residents, workers, and public records can tell me. The World Bank’s Lagos diagnostic proposed collecting information on routes, GPS tracking, and pickup records. If I can find any of those records for the places I visit, I can use them to check when a truck actually came. [World Bank’s Lagos diagnostic, pp. 94–95][world-bank]
 
-My journeys gave me a few places to start asking questions. Where does refuse build up repeatedly? How often is it cleared? What happens when it accumulates near a market, a bus stop or a drain? In the next two articles, I’ll explore how geospatial tools could help answer those questions by mapping dated observations and comparing them with what we can find out about collection and drainage. The aim is to understand why the same problem keeps showing up in certain places, and what might make daily life easier for the people who spend their time there.
+The routes I know give me somewhere to begin. In the next two articles, I’ll map dated observations around markets, bus stops, and drains, then compare them with what I can learn about pickups and drainage. I want to see which spots keep filling up, how long they stay that way, and what might make life easier for the people who spend time there.
+
+Thank you for taking the time to read this.
 
 ## References
 
